@@ -1,0 +1,7 @@
+2847	Saba   	09876543212  	1234567890654 	23  	Karachi      	Denver       	Business  	Aisle  
+2423	Omer   	12345678905  	1234567890987 	45  	Lahore       	Dubai        	business  	aisle  
+1916	Khadija	12345678909  	0987654321765 	34  	Lahore       	Dubai        	Business  	Window 
+3886	John   	12345678906  	1234567890453 	55  	Dallas       	Boston       	Business  	Aisle  
+1487	Carrie 	12345678904  	0987654321654 	23  	Tokyo        	Istanbul     	Economy   	Window 
+3954	Fiza   	12345678909  	1234567890765 	13  	Detroit      	Islamabad    	economy   	aisle  
+

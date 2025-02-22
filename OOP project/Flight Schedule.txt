@@ -1,0 +1,11 @@
+	 AB123   | Lahore     | Dubai	        | Saudi Airlines  | 08:00 AM  | $250
+	 BC456   | Karachi    | Miami   	| United Airlines | 10:30 AM  | $300
+	 DE789   | Seattle    | Denver          | AirBlue Airlines| 01:45 PM  | $180
+	 FG012   | Jeddah     | Lahore		| United Airlines | 04:15 PM  | $400
+	 HI345   | Dallas     | Boston          | JetBlue Airways | 06:30 PM  | $320
+	 JK678   | Orlando    | Nevada          | Alaska Airlines | 09:00 PM  | $280
+	 LM901   | Islamabad  | Madina          | PIA		  | 11:45 PM  | $200
+	 NO234   | Detroit    | Islamabad       | AirBlue Airlines| 02:15 AM  | $220
+	 PQ567   | Tokyo      | Istanbul        | Qatar Airways   | 05:30 AM  | $260
+	 RS890   | Winnipeg   | WashingtonDC    | Emirates    	  | 07:45 AM  | $350
+ 	 
